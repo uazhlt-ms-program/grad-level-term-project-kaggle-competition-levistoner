@@ -15,3 +15,6 @@ The competition is hosted at [https://www.kaggle.com/competitions/ling-539-compe
 - You are encouraged, but not obligated, to use Python
 - You may delete or alter any files in this repository
 - You are free to add dependencies, **however**, ensure that your code can be installed/used on another machine running Linux or MacOS (consider containerizing your project with Docker or an equivalent technology)
+
+# Source Code
+- A solution for this project can be found in this repository under the file "source.Py". This solution uses a logistic regression approach, and ended with an accuracy of 0.91 on the test data.
